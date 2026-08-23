@@ -1,0 +1,16 @@
+{
+  "name": "NursePrep",
+  "short_name": "NursePrep",
+  "description": "Syllabus-driven nursing and health sciences tutor and handwritten work scanner.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "orientation": "any",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {"src":"/assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
